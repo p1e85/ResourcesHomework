@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Resource Homework</string>
+    <string name="resource">Resource</string>
+    <string name="homework">Homework</string>
+    <string name="switch_text">Switch</string>
+
+</resources>
